@@ -1,0 +1,7 @@
+---
+image: ami-0b418580298265d5c
+ssh_key_name: rdn-key
+vpc_subnet_id: subnet-243e9b4e
+instance_type: t2.micro
+ssh_user: ubuntu
+ssh_key_file: /tmp/rdn-key.pem
